@@ -184,7 +184,7 @@
 /* ESERCIZIO 13 */
 
 .ex-13-button:hover .ex-13-bottom-white {
-    animation: move360bottom 2s linear 0s;
+    animation: move360bottom 3s linear 0s;
 }
 
 @keyframes move360bottom {
@@ -195,7 +195,7 @@
 
     20% {
         bottom: -10px;
-        right: calc(100% - 60px);
+        right: calc(100% - 30px);
     }
 
     40% {
@@ -220,7 +220,7 @@
 }
 
 .ex-13-button:hover .ex-13-top-white {
-    animation: move360top 2s linear 0s;
+    animation: move360top 3s linear 0s;
 }
 
 @keyframes move360top {
@@ -231,7 +231,7 @@
 
     20% {
         top: -10px;
-        left: calc(100% - 60px);
+        left: calc(100% - 30px);
     }
 
     40% {
