@@ -55,3 +55,11 @@
 .ex-5-square {
     transition: all 1s ease 0s;
 }
+
+
+/* ESERCIZIO 6 */
+
+.ex-6-img:hover {
+    filter: grayscale(1);
+
+}
